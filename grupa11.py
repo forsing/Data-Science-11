@@ -400,5 +400,5 @@ last: [3, 7, 12, 13, 18, 24, 29]
 
 === pravilo → next (grupa 11) ===
 rule: {'last_draw': [3, 7, 12, 13, 18, 24, 29], 'target_sum': 136.22, 'n_neighbors': 80, 'top_sim': 0.4049}
-next: [5, 9, 20, 22, 23, 29, 32]
+next: [5, x, 20, y, 23, z, 32]
 """
